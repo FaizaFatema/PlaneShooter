@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6c24ac34afeb2f44d976d484f778d4fb
+guid: 079bb305767f5bd4faef1454e309ba04
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -8,12 +8,6 @@ TextureImporter:
   - first:
       213: -8740104602759534909
     second: plane jet_1
-  - first:
-      213: -1093209904013407103
-    second: plane jet _0
-  - first:
-      213: 1307241807958666469
-    second: plane jet _1
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -57,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 150
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -111,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: plane jet _0
+      name: plane jet_0
       rect:
         serializedVersion: 2
         x: 20
@@ -125,14 +119,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18c8756626324d0f0800000000000000
-      internalID: -1093209904013407103
+      spriteID: 28ee0e2a1475eab40800000000000000
+      internalID: 5453392138209390210
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plane jet _1
+      name: plane jet_1
       rect:
         serializedVersion: 2
         x: 300
@@ -146,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ec6aee8f71442210800000000000000
-      internalID: 1307241807958666469
+      spriteID: 3c6e2ccbb29e4b680800000000000000
+      internalID: -8740104602759534909
       vertices: []
       indices: 
       edges: []
